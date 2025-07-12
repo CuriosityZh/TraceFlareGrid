@@ -1,0 +1,40 @@
+def send_to_prometheus(metric):
+    print(f"[Prometheus] {metric}")
+
+def send_to_graphite(metric):
+    print(f"[Graphite] {metric}")
+
+def send_to_loki(metric):
+    print(f"[Loki] {metric}")
+def send_to_prometheus(metric):
+    print(f"[Prometheus] {metric}")
+
+def send_to_graphite(metric):
+    print(f"[Graphite] {metric}")
+
+def send_to_loki(metric):
+    print(f"[Loki] {metric}")
+def send_to_prometheus(metric):
+    print(f"[Prometheus] {metric}")
+
+def send_to_graphite(metric):
+    print(f"[Graphite] {metric}")
+
+def send_to_loki(metric):
+    print(f"[Loki] {metric}")
+def send_to_prometheus(metric):
+    print(f"[Prometheus] {metric}")
+
+def send_to_graphite(metric):
+    print(f"[Graphite] {metric}")
+
+def send_to_loki(metric):
+    print(f"[Loki] {metric}")
+def send_to_prometheus(metric):
+    print(f"[Prometheus] {metric}")
+
+def send_to_graphite(metric):
+    print(f"[Graphite] {metric}")
+
+def send_to_loki(metric):
+    print(f"[Loki] {metric}")
