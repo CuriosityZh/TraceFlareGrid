@@ -1,0 +1,5 @@
+def compare_payloads(a: str, b: str):
+    if a.strip() != b.strip():
+        print("[Drift] Response mismatch:")
+        print(f"  Primary:   {a.strip()}")
+        print(f"  Secondary: {b.strip()}")
